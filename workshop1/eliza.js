@@ -225,6 +225,9 @@ var rules = {
   "~*x perhaps ~*y": [
     "You do not seem quite certain",
   ],
+  "~*x Dancing fish ~*y": [
+    "Those are my favorit kind of fish, fish that like to get dwn, boogie woogie, and shake that thang",
+  ],
 };
 
 var default_responses = [
